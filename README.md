@@ -1,6 +1,6 @@
 ## Automatic Answer Evaluator using AI
 
-In the current education system, exams and assessments are the primary means of evaluating the knowledge and skills of students. However, traditional examination methods often rely on subjective evaluations by human examiners, which can lead to inconsistencies in grading and evaluation. This is where the concept of automatic answer script evaluation by AI comes into play
+In the current education system, assessments are the primary means of evaluating the knowledge and skills of students. However, traditional examination methods often rely on subjective evaluations by human examiners, which can lead to inconsistencies in grading and evaluation. This is where the concept of automatic answer script evaluation by AI comes into play
 
 The proposed work aims to use artificial intelligence (AI) and Machine Learning (ML) techniques to evaluate subjective answers of students in exams. This is done by training the AI models on large datasets of answers along with their respective grades. The AI models can then be used to automatically grade the answers of new students in real-time, eliminating the need for human intervention
 
